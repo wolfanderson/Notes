@@ -607,19 +607,7 @@ three_leaf_grass < sanyecao < clover
 
 1. 算术运算符
 
-- +
-
-- -
-
-- *
-
-- /
-
-- //
-
-- %
-
-- **
+`+ - * / // % **`
 
 ```py
 >>> 'hello'+' world'
@@ -644,33 +632,11 @@ three_leaf_grass < sanyecao < clover
 
 2. 赋值运算符
 
-- =
-
-- +=
-
-- \*=
-
-- /=
-
-- %=
-
-- \*\*=
-
-- //=
+`= += *= /= %= **= //=`
 
 3. 比较（关系）运算符
 
-- ==
-
-- !=
-
-- >
-
-- <
-
-- >=
-
-- <=
+`== != > < >= <=`
 
 ```py
 >>> b=1
@@ -683,11 +649,7 @@ three_leaf_grass < sanyecao < clover
 
 操作与返回的都是bool类型
 
-- and
-
-- or
-
-- not
+`and or not`
 
 ```py
 >>> True and True
