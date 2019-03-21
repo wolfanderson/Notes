@@ -27,6 +27,6 @@
 
 ## 4. Else
 
-401-markdown-tips
+401-[markdown-tips](https://github.com/yumeng9/Notes/blob/master/4.%20Else/401-markdown_tips.md)
 
-402-VS-Code-tips.png
+402-[VS-Code-tips.png](https://github.com/yumeng9/Notes/blob/master/4.%20Else/402-VS_Code_tips.png)
